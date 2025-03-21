@@ -1,0 +1,8 @@
+public boolean silly_nator()
+     {double  rando =  Math.random()*100;
+         rando = rando % 2;
+         int rando2 = (int)rando;
+         if (rando2 ==1)
+         { return true;}
+         return false; 
+        }
